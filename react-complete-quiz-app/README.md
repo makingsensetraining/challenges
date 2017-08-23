@@ -8,7 +8,8 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 ### Installation
 ```sh
-git clone git@github.com:makingsensetraining/react-complete-quiz-app.git 
+git clone git@github.com:makingsensetraining/challenges.git
+cd react
 cd react-complete-quiz-app
 npm start
 ```
