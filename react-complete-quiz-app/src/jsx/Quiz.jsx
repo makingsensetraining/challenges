@@ -10,7 +10,7 @@ class Quiz extends React.Component {
         super(props);
 
         this.state = this.getInitialState();
-
+        //TODO there is a bug in the constructor
     }
 
 
@@ -25,6 +25,7 @@ class Quiz extends React.Component {
     }
 
     checkAnswer(index) {
+        //TODO complete
         /*
          Check if the answer is correct
          If is correct, update the state with the new score and the new value
