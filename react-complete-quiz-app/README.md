@@ -8,8 +8,8 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 ### Installation
 ```sh
-git clone git@github.com:makingsensetraining/react-quiz.git 
-cd react-quiz
+git clone git@github.com:makingsensetraining/react-complete-quiz-app.git 
+cd react-complete-quiz-app
 npm start
 ```
 Then open [http://localhost:3000/](http://localhost:3000/) to see your app.<br>
